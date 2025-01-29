@@ -21,9 +21,9 @@ The primary objective of this project is to detect fraudulent credit card transa
 Data Source
 The dataset was retrieved from an open-source website, Kaggle.com. It consists of transactions made in 2013 by European credit card users over two days. The dataset includes 31 attributes and 284,808 rows.28 attributes are numeric variables that, due to the confidentiality and privacy of the customers, while the remaining three are:
 
-Time: Seconds elapsed between transactions.
-Amount: Transaction amount.
-Class: Binary variable (1 = Fraudulent, 0 = Non-Fraudulent).
+1) Time: Seconds elapsed between transactions.
+2) Amount: Transaction amount.
+3) Class: Binary variable (1 = Fraudulent, 0 = Non-Fraudulent).
 
 # Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
