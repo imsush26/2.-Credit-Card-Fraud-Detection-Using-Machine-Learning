@@ -28,9 +28,9 @@ The dataset was retrieved from an open-source website, Kaggle.com. It consists o
 # Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Algorithms Used
-Logistic Regression (LR)
-Random Forest (RF)
-Logistic Regression using SMOTE Technique
+1)Logistic Regression (LR)
+2)Random Forest (RF)
+3) Logistic Regression using SMOTE Technique
 
 # Future Work
 There are various ways to enhance the model, such as testing it on different datasets with varying sizes and structures or adjusting the data-splitting ratio to improve performance. Additionally, integrating external data sources, such as telecom data, could improve fraud detection.
